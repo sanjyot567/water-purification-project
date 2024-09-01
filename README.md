@@ -21,3 +21,19 @@ A low cost water purification system using naturals materials.
     <!-- Add more sections for Methodology, Results, Impact, etc. -->
 </body>
 </html>
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 1em;
+}
+section {
+    padding: 1em;
+    margin: 1em;
+}
