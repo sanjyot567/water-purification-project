@@ -1,4 +1,4 @@
-# water-purification-project
+# Water-purification-project
 A low cost water purification system using naturals materials.
 <!DOCTYPE html>
 <html lang="en">
